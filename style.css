@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: #ffffff;
+    font-family: monospace;
+    font-weight: normal;
+    color: #000000;
+    margin: 0 auto;
+    max-width: 960px;
+    font-size: 1.2em;
+}
+section {
+    padding-bottom: 5px;
+}
+h1 {
+    font-size: 1.7em;
+}
+h2 {
+    font-size: 1.2em;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+}
+.map {
+    margin: 0 auto;
+    display: block;
+}

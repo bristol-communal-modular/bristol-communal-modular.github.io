@@ -11,6 +11,7 @@ body {
     font-weight: normal;
     color: #000000;
     margin: 0 auto;
+    padding: 10px;
     max-width: 960px;
     font-size: 1.2em;
 }
@@ -33,4 +34,7 @@ h2 {
 .map {
     margin: 0 auto;
     display: block;
+    width: 100%;
+    max-width: 620px;
+    height: auto;
 }
